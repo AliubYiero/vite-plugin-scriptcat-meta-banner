@@ -2,7 +2,7 @@
 	"name": "@yiero/vite-plugin-scriptcat-meta-banner",
 	"author": "Yiero",
 	"description": "A vite plugin to add a banner with scriptcat meta information",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"type": "module",
 	"exports": {
 		".": {
